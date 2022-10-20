@@ -12,4 +12,8 @@ As state above main purpose is provide good knowledg about git
 
 ## Deployment
 
+this is simple web project
+
 ## How To Contribute
+
+lets see
