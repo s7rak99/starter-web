@@ -1,6 +1,7 @@
 # Starter Web Project
 
 this is simple website project for showing git and github togather
+add more text.
 
 ## Introduction
 
