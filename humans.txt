@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sahar Akbik		sahar@hotmail.com
 
 # THANKS
 
