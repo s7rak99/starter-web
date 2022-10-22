@@ -17,3 +17,7 @@ this is simple web project
 ## How To Contribute
 
 lets see
+
+### Copyright
+
+@2020 sahar.dev
