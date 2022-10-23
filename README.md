@@ -18,7 +18,7 @@ this is simple web project
 
 ## How To Contribute
 
-lets see what in there
+lets see what in there new line
 
 ### Copyright
 
