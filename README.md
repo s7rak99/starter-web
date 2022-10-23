@@ -22,4 +22,4 @@ lets see what in there new line
 
 ### Copyright
 
-@2020 sahar.dev
+@2020 sahar.dev. all right reserved.
