@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2022 Sahar Developer
+-->
+<head>
 <<<<<<< HEAD
-	some silly change
--->
-<head>
-	<title>silly change website</title>
+	<title>master title</title>
 =======
-	these change from bigtrouble branch
--->
-<head>
-	<title>lot of trouble</title>
->>>>>>> da6002d (adding something)
+	<title>big trouble compare2 </title>
+>>>>>>> bigtrouble
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -25,16 +21,11 @@
 	<main class="container">
 	<!-- Junck Here -->
 		<p>
-<<<<<<< HEAD
-			Just stuff,
-			not sure
-=======
-			Just nothing content
->>>>>>> da6002d (adding something)
+			more important contant
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; akbik 2014</p>
+		<p>&copy; sahar akbik 2014</p>
 	</footer>
 </body>
 </html>
